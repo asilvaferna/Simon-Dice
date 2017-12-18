@@ -45,7 +45,7 @@ In this section you will learn how to build this proyect in an Android Device, v
 
 ## Authors
 
-* **Adrian Silva** - *Initial work* - [CV](https://adri4silva.github.io)
+* **Adrian Silva** - [CV](https://adri4silva.github.io)
 
 ## License
 
